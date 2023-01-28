@@ -1,0 +1,35 @@
+Write a Java Program to Find Largest Among 3 Numbers without using if-else
+Write a Java Program to Display All Prime Numbers from 1 to N
+Write a Java Program to Check whether input character is vowel or consonant
+Write a Java Program to Find Factorial of a number
+Write a Java Program to Print Spiral Pattern of Numbers
+Write a Java Program For Binary to Decimal Conversion
+Write a Java Program to Create a Class and Object
+Write a Java Program to Create Abstract Class
+Write a Java Program to Create Singleton Class
+Write a Java Program to Create an Interface
+Write a Java Program to Sow Encapsulation in Class
+Write a Java Program to Show Inheritance in Class
+Write a Java Program to Show Abstraction in Class
+Write a Java Program to Show Data Hiding in Class
+Write a Java Program to Show Polymorphism in Class
+Write a Java Program to Show Overloading of Methods in Class
+Write a Java Program to Show Overriding of Methods in Classes
+Write a Java Program to Show Use of Super Keyword in Class
+Write a Java Program to Show Use of This Keyword in Class
+Write a Java Program to Show Usage of Static keyword in Class
+Write a Java Program to Show Usage of Access Modifier
+Write a  Java Program to add two binary numbers.
+Write a Java Program to Show Usage of Main() method
+Write a Java Program to Show Use of Static and Non-static Methods
+Write a Java Program For Linear Search
+Write a Java Program For Binary Search
+Write a Java Program to Remove Duplicate Elements From an Array
+Write a Java Program to Remove All Occurrences of an Element in an Array
+Write a Java Program to Sort a String
+Write a Java Program to Swapping Pair of Characters
+Write a Java Program to Compare Paths of Two files
+Write a Java Program to Read content from one file and writing it into another file
+Write a Java Program to Handle the Checked exceptions
+Write a Java Program to Handle the Unchecked Exceptions
+
